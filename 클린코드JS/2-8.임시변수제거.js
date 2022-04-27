@@ -95,7 +95,7 @@
 // function getDateTime() {
 //   const currentDataTime = getDateTimte(new Date())
 
-//   return{
+//   return {
 //     month: currentDataTime.month + '달 전',
 //     day: currentDataTime.day + '달 전',
 //     hour: currentDataTime.hour + '달 전',
